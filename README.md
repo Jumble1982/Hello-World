@@ -1,2 +1,2 @@
 # Hello-World
-Learning Rep
+This is my first tiem using GitHub
